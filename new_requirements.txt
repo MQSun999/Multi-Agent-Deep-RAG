@@ -1,0 +1,7 @@
+langchain-google-genai
+langchain-google-vertexai
+langchain_qdrant
+deepagents
+google-genai
+fastembed
+fastembed-gpu
